@@ -1,8 +1,11 @@
 # 🔍 [Tên repo / issue / CVE] — [DD/MM/YYYY]
 
 > **Type:** `[ ] Fuzzing` `[ ] Memory Safety` `[ ] Logic Bug` `[ ] Auth` `[ ] Injection` `[ ] Other: ___`
+
 > **Target lang:** `[ ] C/C++` `[ ] Python` `[ ] Rust` `[ ] Go` `[ ] Other: ___`
+
 > **Severity (nếu có):** `[ ] Critical` `[ ] High` `[ ] Medium` `[ ] Low` `[ ] Info`
+
 > **Status:** `[ ] Reading` `[ ] Reproducing` `[ ] Analyzing` `[ ] Write-up done`
 
 ---
