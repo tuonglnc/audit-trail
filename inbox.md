@@ -1,11 +1,34 @@
----
-title: ""
-date: YYYY-MM-DD
-type: ""
-tags: []
-status: inbox
+# 📥 Inbox — Ghi nhanh, phân loại sau
+
+> Thêm vào đây bất cứ khi nào: link hay, tool chưa thử, concept chưa hiểu, câu hỏi chưa rõ.  
+> Dọn inbox mỗi tuần → chuyển sang đúng folder.
+
 ---
 
-<!-- Ghi thô ở đây. Không cần format. Không cần hoàn chỉnh.
-     Một bullet point cũng tốt hơn không ghi gì.
-     Promote sang đúng folder khi "đủ chín". -->
+## 🔗 Links cần đọc
+
+- [ ] 
+
+---
+
+## 💡 Concepts chưa hiểu rõ
+
+- [ ] 
+
+---
+
+## 🛠️ Tools cần thử
+
+- [ ] 
+
+---
+
+## ❓ Câu hỏi chưa có trả lời
+
+- 
+
+---
+
+## ✅ Đã xử lý (move xuống đây sau khi chuyển sang file đúng)
+
+<!-- - [x] [link] → moved to vulns/sqli.md -->
